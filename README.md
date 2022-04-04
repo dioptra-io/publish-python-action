@@ -25,3 +25,6 @@ Name          | Default
 `repository`  | `pypi`
 `username`    | `__token__`
 `password`    | None
+`upload`      | `true`
+`sdist`       | `true`
+`wheel`       | `true`
